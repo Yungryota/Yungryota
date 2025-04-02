@@ -14,7 +14,6 @@ Puedo estar en cualquier fase de desarrollo, diseño o planificacion de un proye
 
  * Nest.js
  * Express
- * Laravel
    
   
   👀 Estoy buscando proyectos en los cuales aportar.
