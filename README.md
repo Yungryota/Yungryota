@@ -1,8 +1,8 @@
 # Hola , soy Lukas
 
-Soy Fullstack developer. Actualmente estoy aprendiendo los procesos de integracion y deploy con CI/CD.
+Soy Ingeniero de Software
 
-Puedo estar en cualquier fase de desarrollo, diseño o planificacion de un proyecto. Puedo trabajar con Python, Java y Node.js
+Puedo estar en cualquier fase de desarrollo, diseño o planificacion de un proyecto. Puedo trabajar con Python, Java y Javascript 
 
 ## Aspiro a trabajar en
 * 🚀 CI/CD | ⚙️ DevOps
@@ -13,7 +13,7 @@ Puedo estar en cualquier fase de desarrollo, diseño o planificacion de un proye
 ## 🌱 Actualmente estoy aprendiendo ...
 
  * Nest.js
- * Express
+ * 
    
   
   👀 Estoy buscando proyectos en los cuales aportar.
@@ -27,15 +27,17 @@ Puedo estar en cualquier fase de desarrollo, diseño o planificacion de un proye
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+#### Frameworks
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 #### Other Tools and Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -55,4 +57,4 @@ Puedo estar en cualquier fase de desarrollo, diseño o planificacion de un proye
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yungryota&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tu_usuario&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yungryota&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
