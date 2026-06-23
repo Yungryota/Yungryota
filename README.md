@@ -4,8 +4,8 @@ Soy Ingeniero de Software
 
 Puedo estar en cualquier fase de desarrollo, diseño o planificacion de un proyecto. Puedo trabajar con Python, Java y Javascript 
 
-## Aspiro a trabajar en
-* 🚀 CI/CD | ⚙️ DevOps
+## Aspiro a trabajar en cargos tipo:
+* Arquitecto de Software
 * Fullstack developer
 
 
@@ -13,7 +13,6 @@ Puedo estar en cualquier fase de desarrollo, diseño o planificacion de un proye
 ## 🌱 Actualmente estoy aprendiendo ...
 
  * Nest.js
- * 
    
   
   👀 Estoy buscando proyectos en los cuales aportar.
@@ -28,7 +27,6 @@ Puedo estar en cualquier fase de desarrollo, diseño o planificacion de un proye
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 #### Frameworks
@@ -39,7 +37,7 @@ Puedo estar en cualquier fase de desarrollo, diseño o planificacion de un proye
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### Other Tools and Technologies
+#### Otras Herramientas y Técnologias
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
